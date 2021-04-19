@@ -17,17 +17,18 @@ This is a step-by-step approach to installing the Open Street Map (OSMnx) librar
 ![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot2.png)
 
 * The installation has to be done in the base/root terminal. There’re two ways to go about this (which is really cool for Windows), 1. Click the home button, search for Anaconda (mostly appears as a folder) click the drop down and click Anaconda Promt or 2. Run anaconda and launch CMD.exe prompt to directly work in the base terminal (pretty easy huh!).
+
 step 1. ![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot3.png)
 step 2. ![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot4.png)
 
 * Next, copy ‘conda config --prepend channels conda-forge’ and paste in the base terminal and hit enter. 
-![image](https://drive.google.com/file/d/1tdYztfAFN4eb9SbiTRjrx2M2NCXjEhs6/view?usp=sharing)
+![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot5.png)
 
 * When the forge is done, copy and paste ‘conda create -n ox --strict-channel-priority osmnx’ and hit enter to install the osmnx packages. If prompted to press [y/n] to proceed, press ‘y’ to continue.
 * This could take a while depending on the speed on of the internet and the packages being installed.
 * When the installation is complete (in the terminal), an instruction will be given to activate the environment.
 * When done, head to the Anaconda navigator and confirm if the installation worked. Next to “Applications on” is a box that displays the base root and a drop-down icon. Click on the icon to see “ox” installed.
-![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot5.png)
+![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot6.png)
 
 * Click on “ox”. This will tell anaconda to switch to the ox base/ root and this will be mirrored in the terminal as well and it will take some time but not too much.
 * The ox will require you to install jupyter notebook for that environment, do just that
