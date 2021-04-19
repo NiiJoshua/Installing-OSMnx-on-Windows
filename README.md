@@ -11,17 +11,17 @@ This is a step-by-step approach to installing the Open Street Map (OSMnx) librar
 
 ## Let's get started
 * Visit [here](https://github.com/gboeing/osmnx-examples) to see documentations and installation instructions. Scroll down to “More info:” and click on Documentation as shown below. This will open the documentation.
-![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot1.png)
+![image](https://drive.google.com/file/d/1GvS6FxmvFTCLntbFSblSNk-pdZZbjTSN/view?usp=sharing)
 
 * At the documentation webpage, scroll to installation.
-![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot2.png)
+![image](https://drive.google.com/file/d/1FU0ug__f4iNNTlQpAK-oQc3pNlV3DZnC/view?usp=sharing)
 
 * The installation has to be done in the base/root terminal. There’re two ways to go about this (which is really cool for Windows), 1. Click the home button, search for Anaconda (mostly appears as a folder) click the drop down and click Anaconda Promt or 2. Run anaconda and launch CMD.exe prompt to directly work in the base terminal (pretty easy huh!).
-![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot3.png)
-![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot4.png)
+step 1. ![image](https://drive.google.com/file/d/1T2Xtvm0PvQLxweUU9ns7fg1ja-5tAMW4/view?usp=sharing)
+step 2. ![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot4.png)
 
 * Next, copy ‘conda config --prepend channels conda-forge’ and paste in the base terminal and hit enter. 
-![image](https://github.com/NiiJoshua/Installing-OSMnx-on-Windows/blob/main/Screenshot5.png)
+![image](https://drive.google.com/file/d/1tdYztfAFN4eb9SbiTRjrx2M2NCXjEhs6/view?usp=sharing)
 
 * When the forge is done, copy and paste ‘conda create -n ox --strict-channel-priority osmnx’ and hit enter to install the osmnx packages. If prompted to press [y/n] to proceed, press ‘y’ to continue.
 * This could take a while depending on the speed on of the internet and the packages being installed.
