@@ -2,7 +2,7 @@
 This is a step-by-step approach to installing the Open Street Map (OSMnx) library for python using conda. These are personal steps I took to install the library after several unsucessful attempts. I hope this repository is worth the reading. 
 
 ## Introduction
-[Geoff Boeing](https://github.com/gboeing) has written pretty good stuffs on Open Street Map and this article mirrors the work of Geoff. This repo takes a vivid look at installing the OSMnx library on a windows computer but the process indicated here can be replicated on Mac.
+[Geoff Boeing](https://github.com/gboeing) has written extensively on Open Street Map and this article mirrors the work of Geoff. This repo takes a vivid look at installing the OSMnx library on a windows computer but the process indicated here can be replicated on Mac.
 
 ## What you need to get started
 1. An updated verion of Anaconda is suitable.
