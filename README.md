@@ -5,7 +5,7 @@ This is a step-by-step approach to installing the Open Street Map (OSMnx) librar
 [Geoff Boeing](https://github.com/gboeing) has written extensively on Open Street Map and this article mirrors the work of Geoff. This repo takes a vivid look at installing the OSMnx library on a windows computer but the process indicated here can be replicated on Mac.
 
 ## What you need to get started
-1. An updated verion of Anaconda is suitable.
+1. An updated version of Anaconda is suitable.
 2. A good internet connection because of the packages that will be downloaded
 3. Enough space on your local computer
 
