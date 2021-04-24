@@ -10,7 +10,7 @@ This is a step-by-step approach to installing the Open Street Map (OSMnx) librar
 3. Enough space on your local computer
 
 ## Let's get started
-* Visit [here](https://github.com/gboeing/osmnx-examples) to see documentations and installation instructions. Scroll down to “More info:” and click on Documentation as shown below. This will open the documentation.
+* Visit [here](https://github.com/gboeing/osmnx-examples) to see documentation and installation instructions. Scroll down to “More info:” and click on Documentation as shown below. This will open the documentation.
 
 ![image info](./images/Screenshot1.png)
 
