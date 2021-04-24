@@ -29,9 +29,9 @@ This is a step-by-step approach to installing the Open Street Map (OSMnx) librar
 ![image info](./images/Screenshot5.png)
 
 * When the forge is done, copy and paste ‘conda create -n ox --strict-channel-priority osmnx’ and hit enter to install the osmnx packages. If prompted to press [y/n] to proceed, press ‘y’ to continue.
-* This could take a while depending on the speed on of the internet and the packages being installed.
+* This could take a while depending on the speed of the internet and the packages being installed.
 * When the installation is complete (in the terminal), an instruction will be given to activate the environment.
-* When done, head to the Anaconda navigator and confirm if the installation worked. Next to “Applications on” is a box that displays the base root and a drop-down icon. Click on the icon to see “ox” installed.
+* When done, head to the Anaconda Navigator and confirm if the installation worked. Next to “Applications on” is a box that displays the base root and a drop-down icon. Click on the icon to see “ox” installed.
 
 ![image info](./images/Screenshot6.png)
 
