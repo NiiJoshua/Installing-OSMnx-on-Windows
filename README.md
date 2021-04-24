@@ -24,7 +24,7 @@ This is a step-by-step approach to installing the Open Street Map (OSMnx) librar
 
 ![image info](./images/Screenshot4.png)
 
-* Next, copy ‘conda config --prepend channels conda-forge’ and paste in the base terminal and hit enter. 
+* Next, copy ‘conda config --prepend channels conda-forge’ and paste in the base terminal, and hit enter. 
 
 ![image info](./images/Screenshot5.png)
 
