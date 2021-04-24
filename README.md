@@ -18,7 +18,7 @@ This is a step-by-step approach to installing the Open Street Map (OSMnx) librar
 
 ![image info](./images/Screenshot2.png)
 
-* The installation has to be done in the base/root terminal. There’re two ways to go about this (which is really cool for Windows), 1. Click the home button, search for Anaconda (mostly appears as a folder) click the drop down and click Anaconda Promt or 2. Run anaconda and launch CMD.exe prompt to directly work in the base terminal (pretty easy huh!).
+* The installation has to be done in the base/root terminal. There’re two ways to go about this (which is really cool for Windows), 1. Click the home button, search for Anaconda (mostly appears as a folder) click the drop-down and click Anaconda Prompt or 2. Run anaconda and launch the CMD.exe prompt to directly work in the base terminal (pretty easy huh!).
 
 ![image info](./images/Screenshot3.png)
 
